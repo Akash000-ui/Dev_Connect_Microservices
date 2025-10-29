@@ -386,14 +386,5 @@ This project is licensed under the MIT License.
 
 ## 📞 Support
 
-For support, email support@devconnect.com or open an issue on GitHub.
+For support, email akashreddy123@gmail.com or open an issue on GitHub.
 
----
-
-<div align="center">
-
-**Built with ❤️ by the Dev-Connect Team**
-
-⭐ Star us on GitHub — it motivates us a lot!
-
-</div>
