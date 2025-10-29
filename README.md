@@ -153,8 +153,8 @@ Ensure you have the following installed:
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Dev-Connect.git
-cd Dev-Connect
+git clone https://github.com/Akash000-ui/Dev_Connect_Microservices.git
+cd Dev_Connect_Microservices
 ```
 
 #### 2. Setup MongoDB Atlas
@@ -371,7 +371,7 @@ This project is licensed under the MIT License.
 
 ## 👥 Authors
 
-- **Your Name** - [GitHub](https://github.com/yourusername)
+- **Your Name** - [GitHub](https://github.com/Akash000-ui)
 
 ---
 
