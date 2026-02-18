@@ -371,7 +371,7 @@ This project is licensed under the MIT License.
 
 ## 👥 Authors
 
-- **Your Name** - [GitHub](https://github.com/Akash000-ui)
+- **Akash** - [GitHub](https://github.com/Akash000-ui)
 
 ---
 
